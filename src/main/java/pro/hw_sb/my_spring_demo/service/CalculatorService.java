@@ -11,3 +11,4 @@ public interface CalculatorService {
 
     String divide(int number1, int number2) throws IllegalAccessException;
 }
+
